@@ -3,6 +3,26 @@ ADS_COVID-19
 
 Data Science for COVID-19 analysis
 
+
+Applied Data Science for COVID-19 track
+
+The goal of this project is to develop a COVID-19 analysis prototype
+
+The final result is shown in a dynamic dashboard where we will select the countries and calculated data sets like the current Doubling Rate of confirmed cases.
+
+Techniques used are Python pandas,scikit learn,Facebook prophet ,plotly,Dash.
+
+For the development we have used a Industry standard CRISP-DM in which we have defined.
+
+Business understanding (where we have defined the goal of the project). Data Understanding (where do we get data and cleaning of data). Data Preparation (data transformation and visualization). Modeling (Statistics, Machine Learning, and SIR Simulations on COVID Data). Deployment (how to deliver results, dynamic dashboards in python).
+
+The final result is a dymanic dashboard in which the raw data from the Johnhopkins is visvalised the data in the form of a dashbaoard , where we can select four different options suhc as Timeline confirmed , Timeline confirmed filtered , Timeline doubling rate , Timeline doubling rate filtered.
+
+In the later stages of the project we tried to implement FB prophet where we can predict the future virus spread and predictive analysis.
+
+After that we tried using a mathematical modelling of infectious disease.
+
+
 Project Organization
 ------------
 
