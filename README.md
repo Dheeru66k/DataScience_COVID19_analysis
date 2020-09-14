@@ -20,7 +20,7 @@ The final result is a dymanic dashboard in which the raw data from the Johnhopki
 
 In the later stages of the project we tried to implement FB prophet where we can predict the future virus spread and predictive analysis.
 
-After that we tried using a mathematical modelling of infectious disease.
+After that we tried using a mathematical modelling for infectious disease and SIR Simulations on COVID Data
 
 
 Project Organization
