@@ -12,7 +12,7 @@ The final result is shown in a dynamic dashboard where we will select the countr
 
 Techniques used are Python pandas,scikit learn,Facebook prophet ,plotly,Dash.
 
-For the development we have used a Industry standard CRISP-DM in which we have defined.
+For the development we have used a Industry standard CRISP-DM in which we have defined project goal and Business Understanding.
 
 Business understanding (where we have defined the goal of the project). Data Understanding (where do we get data and cleaning of data). Data Preparation (data transformation and visualization). Modeling (Statistics, Machine Learning, and SIR Simulations on COVID Data). Deployment (how to deliver results, dynamic dashboards in python).
 
